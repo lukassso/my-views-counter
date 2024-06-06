@@ -51,9 +51,169 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/761721753/small/year.png" height="20"> 1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/177115510/year.md">
+				CSS-challenges
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/177115510/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/509960106/year.md">
+				react-query-training
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/509960106/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/804536716/year.md">
+				movie-app
+			</a>
+		</td>
+		<td>
+			2024/6/3 12:00 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/804536716/small/year.png" height="20"> 299
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/781835747/year.md">
+				bank-transactions
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/781835747/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/166373081/year.md">
+				portf
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/166373081/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/555018605/year.md">
+				trenerraf-NextJS
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/555018605/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/236141208/year.md">
+				trenerraf-GatsbyJS
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/236141208/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/635412214/year.md">
+				chatbot-ui
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:10 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/635412214/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/232603418/year.md">
+				react-mini-projects
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:10 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/232603418/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/180102147/year.md">
+				spokolenie
+			</a>
+		</td>
+		<td>
+			2024/6/3 9:10 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/180102147/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/6 9:07 AM UTC</i></small>
+<small><i>Last updated on 2024/6/6 9:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
