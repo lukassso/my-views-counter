@@ -22,17 +22,17 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/755990774/year.md">
-				portfolio-blog
+				astro-trek
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:00 AM UTC
+			2024/6/9 12:00 AM UTC
 		</td>
 		<td>
-			28
+			30
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 366
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 373
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:47 AM UTC
+			2024/6/9 12:52 AM UTC
 		</td>
 		<td>
 			2
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:47 AM UTC
+			2024/6/9 12:53 AM UTC
 		</td>
 		<td>
 			1
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:47 AM UTC
+			2024/6/9 12:53 AM UTC
 		</td>
 		<td>
 			1
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:47 AM UTC
+			2024/6/9 12:53 AM UTC
 		</td>
 		<td>
 			17
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/6/8 12:47 AM UTC
+			2024/6/9 12:53 AM UTC
 		</td>
 		<td>
 			3
@@ -115,105 +115,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/781835747/small/year.png" height="20"> 6
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/166373081/year.md">
-				portf
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:47 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/166373081/small/year.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/555018605/year.md">
-				trenerraf-NextJS
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:48 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/555018605/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/236141208/year.md">
-				trenerraf-GatsbyJS
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:48 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/236141208/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/635412214/year.md">
-				chatbot-ui
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:48 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/635412214/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/232603418/year.md">
-				react-mini-projects
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:48 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/232603418/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/180102147/year.md">
-				spokolenie
-			</a>
-		</td>
-		<td>
-			2024/6/8 12:48 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/180102147/small/year.png" height="20"> 0
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/10 12:20 PM UTC</i></small>
+<small><i>Last updated on 2024/6/11 10:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

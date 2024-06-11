@@ -1,6 +1,6 @@
 ## [🔙 my-views-counter](https://github.com/lukassso/my-views-counter)
 
-### :octocat: [portfolio-blog](https://github.com/lukassso/portfolio-blog)
+### :octocat: [astro-trek](https://github.com/lukassso/astro-trek)
 ![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/large/year.png)
 
 <details>
@@ -26,7 +26,7 @@
 			<code>16</code>
 		</td>
 		<td>
-			<code>192</code>
+			<code>237</code>
 		</td>
 	</tr>
 	<tr>
@@ -37,7 +37,7 @@
 			<code>8</code>
 		</td>
 		<td>
-			<code>124</code>
+			<code>105</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/6/10 12:19 PM UTC</i></small>
+<small><i>Last updated on 2024/6/11 10:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/755990774/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/week.md)
 ```
 ### Header
-# portfolio-blog [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
+# astro-trek [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
 ```readme
-# portfolio-blog [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
+# astro-trek [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
