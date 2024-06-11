@@ -1,13 +1,13 @@
 {
-  "devMode": "false",
-  "advancedMode": "false",
-  "language": "en-US",
-  "repository": [
-    "astro-trek",
-    "compare-hydration",
-    "CSS-challenges",
-    "react-query-training",
-    "movie-app",
-    "bank-transactions"
-  ]
+    "devMode": false,
+    "advancedMode": false,
+    "language": "en-US",
+    "repository": [
+        "astro-trek",
+        "compare-hydration",
+        "CSS-challenges",
+        "react-query-training",
+        "movie-app",
+        "bank-transactions"
+    ]
 }
