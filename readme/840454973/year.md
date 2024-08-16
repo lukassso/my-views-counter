@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/lukassso/my-views-counter)
 
-### :octocat: [bank-transactions](https://github.com/lukassso/bank-transactions)
-![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/graph/781835747/large/year.png)
+### :octocat: [nbp-currency-explorer](https://github.com/lukassso/nbp-currency-explorer)
+![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/graph/840454973/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>81</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/8/16 12:21 PM UTC</i></small>
+<small><i>Last updated on 2024/8/16 12:20 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/781835747/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/781835747/week.md)
+[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/840454973/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/840454973/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/781835747/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/781835747/week.md)
+[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/840454973/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/840454973/week.md)
 ```
 ### Header
-# bank-transactions [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/781835747/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/781835747/year.md)
+# nbp-currency-explorer [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/840454973/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/840454973/year.md)
 ```readme
-# bank-transactions [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/781835747/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/781835747/year.md)
+# nbp-currency-explorer [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/840454973/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/840454973/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
