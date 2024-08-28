@@ -115,9 +115,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/781835747/small/year.png" height="20"> 12
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/501758798/year.md">
+				python-mini-projects
+			</a>
+		</td>
+		<td>
+			2024/8/25 12:22 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/501758798/small/year.png" height="20"> 8
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/28 6:16 AM UTC</i></small>
+<small><i>Last updated on 2024/8/28 12:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
