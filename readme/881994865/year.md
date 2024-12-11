@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/lukassso/my-views-counter)
 
-### :octocat: [astro-trek](https://github.com/lukassso/astro-trek)
-![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/large/year.png)
+### :octocat: [yournextstore](https://github.com/lukassso/yournextstore)
+![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/graph/881994865/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>100</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>40</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>95</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>156</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>189</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>50</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/11 6:17 PM UTC</i></small>
+<small><i>Last updated on 2024/12/11 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/755990774/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/week.md)
+[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/881994865/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/881994865/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/755990774/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/week.md)
+[![Image of my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/881994865/badge.svg)](https://github.com/lukassso/my-views-counter/blob/master/readme/881994865/week.md)
 ```
 ### Header
-# astro-trek [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
+# yournextstore [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/881994865/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/881994865/year.md)
 ```readme
-# astro-trek [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/755990774/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/755990774/year.md)
+# yournextstore [<img alt="Image of my-views-counter" src="https://github.com/lukassso/my-views-counter/blob/master/graph/881994865/small/year.png" height="20">](https://github.com/lukassso/my-views-counter/blob/master/readme/881994865/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
