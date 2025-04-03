@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/840454973/year.md">
-				nbp-currency-explorer
-			</a>
-		</td>
-		<td>
-			2025/4/1 1:10 AM UTC
-		</td>
-		<td>
-			23
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/840454973/small/year.png" height="20"> 331
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/804536716/year.md">
 				movie-app
 			</a>
@@ -149,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 6:20 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 12:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
