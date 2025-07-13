@@ -147,9 +147,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/501758798/small/year.png" height="20"> 201
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/1016535246/year.md">
+				rs-school-react-25-03
+			</a>
+		</td>
+		<td>
+			2025/7/10 6:19 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/1016535246/small/year.png" height="20"> 59
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/945899814/year.md">
+				coding-challenges
+			</a>
+		</td>
+		<td>
+			2025/7/10 6:19 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/945899814/small/year.png" height="20"> 3
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/13 12:27 PM UTC</i></small>
+<small><i>Last updated on 2025/7/13 6:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
