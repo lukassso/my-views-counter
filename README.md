@@ -26,13 +26,29 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:25 AM UTC
+			2026/5/11 12:00 AM UTC
 		</td>
 		<td>
-			225
+			226
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 1917
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 1920
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/761721753/year.md">
+				compare-hydration
+			</a>
+		</td>
+		<td>
+			2026/5/11 2:34 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/761721753/small/year.png" height="20"> 30
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:25 AM UTC
+			2026/5/11 2:34 AM UTC
 		</td>
 		<td>
 			8
@@ -58,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:25 AM UTC
+			2026/5/11 2:34 AM UTC
 		</td>
 		<td>
 			32
@@ -74,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:34 AM UTC
 		</td>
 		<td>
 			24
@@ -90,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:34 AM UTC
 		</td>
 		<td>
 			10
@@ -106,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:35 AM UTC
 		</td>
 		<td>
 			35
@@ -122,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:35 AM UTC
 		</td>
 		<td>
 			65
@@ -138,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:35 AM UTC
 		</td>
 		<td>
 			54
@@ -154,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/10 2:26 AM UTC
+			2026/5/11 2:35 AM UTC
 		</td>
 		<td>
 			10
@@ -165,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/5/12 7:41 PM UTC</i></small>
+<small><i>Last updated on 2026/5/13 2:35 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
