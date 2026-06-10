@@ -35,9 +35,153 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 1925
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/761721753/year.md">
+				compare-hydration
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:55 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/761721753/small/year.png" height="20"> 30
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/177115510/year.md">
+				CSS-challenges
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/177115510/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/840454973/year.md">
+				nbp-currency-explorer
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			32
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/840454973/small/year.png" height="20"> 342
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/804536716/year.md">
+				movie-app
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/804536716/small/year.png" height="20"> 331
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/781835747/year.md">
+				bank-transactions
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/781835747/small/year.png" height="20"> 27
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/881994865/year.md">
+				yournextstore
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			35
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/881994865/small/year.png" height="20"> 285
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/501758798/year.md">
+				python-mini-projects
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			65
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/501758798/small/year.png" height="20"> 214
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/1016535246/year.md">
+				rs-school-react-25-03
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			54
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/1016535246/small/year.png" height="20"> 573
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/945899814/year.md">
+				coding-challenges
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:56 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/945899814/small/year.png" height="20"> 72
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 3:18 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 8:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
