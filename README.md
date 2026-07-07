@@ -117,22 +117,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/881994865/year.md">
-				yournextstore
-			</a>
-		</td>
-		<td>
-			2026/7/5 2:30 AM UTC
-		</td>
-		<td>
-			35
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/881994865/small/year.png" height="20"> 285
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/501758798/year.md">
 				python-mini-projects
 			</a>
@@ -181,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/7 2:15 PM UTC</i></small>
+<small><i>Last updated on 2026/7/7 7:46 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
