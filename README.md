@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:10 AM UTC
 		</td>
 		<td>
 			234
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			16
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			9
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			32
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			24
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			12
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:12 AM UTC
+			2026/8/11 1:11 AM UTC
 		</td>
 		<td>
 			35
@@ -133,28 +133,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/501758798/year.md">
-				python-mini-projects
-			</a>
-		</td>
-		<td>
-			2026/8/10 1:12 AM UTC
-		</td>
-		<td>
-			66
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/501758798/small/year.png" height="20"> 215
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/1016535246/year.md">
 				rs-school-react-25-03
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:13 AM UTC
+			2026/8/11 1:12 AM UTC
 		</td>
 		<td>
 			55
@@ -170,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/10 1:13 AM UTC
+			2026/8/11 1:12 AM UTC
 		</td>
 		<td>
 			13
@@ -181,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/12 12:54 PM UTC</i></small>
+<small><i>Last updated on 2026/8/13 7:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
