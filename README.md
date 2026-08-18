@@ -21,12 +21,60 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/755990774/year.md">
+				astro-trek
+			</a>
+		</td>
+		<td>
+			2026/8/16 12:54 AM UTC
+		</td>
+		<td>
+			234
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/755990774/small/year.png" height="20"> 1937
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/761721753/year.md">
+				compare-hydration
+			</a>
+		</td>
+		<td>
+			2026/8/16 12:54 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/761721753/small/year.png" height="20"> 30
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/177115510/year.md">
+				CSS-challenges
+			</a>
+		</td>
+		<td>
+			2026/8/16 12:54 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/lukassso/my-views-counter/raw/master/graph/177115510/small/year.png" height="20"> 24
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/lukassso/my-views-counter/tree/master/readme/840454973/year.md">
 				nbp-currency-explorer
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:51 AM UTC
+			2026/8/16 12:54 AM UTC
 		</td>
 		<td>
 			32
@@ -42,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:51 AM UTC
+			2026/8/16 12:54 AM UTC
 		</td>
 		<td>
 			24
@@ -58,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:51 AM UTC
+			2026/8/16 12:54 AM UTC
 		</td>
 		<td>
 			12
@@ -74,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:51 AM UTC
+			2026/8/16 12:54 AM UTC
 		</td>
 		<td>
 			35
@@ -90,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:52 AM UTC
+			2026/8/16 12:55 AM UTC
 		</td>
 		<td>
 			66
@@ -106,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:52 AM UTC
+			2026/8/16 12:55 AM UTC
 		</td>
 		<td>
 			55
@@ -122,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/15 12:52 AM UTC
+			2026/8/16 12:55 AM UTC
 		</td>
 		<td>
 			13
@@ -133,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 6:28 PM UTC</i></small>
+<small><i>Last updated on 2026/8/18 12:51 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
